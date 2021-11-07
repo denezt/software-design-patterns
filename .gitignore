@@ -1,0 +1,14 @@
+
+# Generated Java Files
+*.jar
+*.class
+
+# Gradle Files
+.gradle
+
+# Logging Files
+*.log
+
+# Temporary Directories
+tmp/**
+temp/**
